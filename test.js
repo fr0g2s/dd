@@ -1,2 +1,2 @@
-alert(1);
+alert(12);
 console.log('hi');
